@@ -63,7 +63,7 @@
  &trans  &trans    &trans    &trans     &trans  &trans                 &none                                                                                          &none  &trans    &trans    &trans     &trans   &trans   &trans
  &trans  &trans    &trans    &trans     &trans  &trans                 &none  &kp LG(RC(Q))             &trans   &none   &none        &trans  &macro_macro_alt_f4     &none  &trans    &trans    &trans     &trans   &trans   &trans
  &trans  &trans    &trans    &kp UP     &trans  &trans                 &none          &none    &kp C_VOLUME_UP   &none   &none  &kp C_VOL_UP                &none     &none  &trans    &trans    &kp UP     &trans   &trans   &trans
- &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT                    &kp RC(UP)     &kp C_MUTE  &kp C_VOLUME_DOWN                  &kp C_VOL_DN           &kp C_MUTE  &kp LALT          &kp LEFT  &kp DOWN  &kp RIGHT   &trans   &trans
+ &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT                    &kp RC(UP)     &kp C_MUTE  &kp C_VOLUME_DOWN                  &kp C_VOL_DN           &kp C_MUTE  &kp RALT          &kp LEFT  &kp DOWN  &kp RIGHT   &trans   &trans
             >;
         };
 
